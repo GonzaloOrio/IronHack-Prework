@@ -1,0 +1,132 @@
+body{
+  background: rgb(244, 248, 249);
+  font-family: 'Montserrat', sans-serif;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  color: rgb(101, 116, 127);
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+
+
+.emoji{
+  float: left;
+  width: 14px;
+}
+
+.favoriteTweet{
+  display: block;
+  float: left;
+  margin: 0 5px 0 35px;
+}
+
+.favoriteTweet a:hover{
+  color: rgb(232, 28, 79);
+}
+
+.follow{
+  float: right;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+.follow a{
+  border: 2px solid rgb(29, 171, 242);
+  border-radius: 8px;
+  color: rgb(29, 171, 242);
+  margin: 10px 70px;
+  padding: 7px 20px;
+}
+
+.follow a:hover{
+  background-color: rgb(29, 171, 242);
+  color: rgb(255, 255, 255);
+}
+
+.photoUser{
+  float: left;
+  margin-right: 15px;
+  width: 65px;
+}
+
+.replyTweet{
+  display: block;
+  margin-top: 2px;
+}
+
+.replyTweet a:hover{
+  color: rgb(29, 161, 242);
+}
+
+.retweetTweet{
+  display: block;
+  float: left;
+  margin: 0 5px 0 35px;
+}
+
+.retweetTweet a:hover{
+  color: rgb(25, 207, 134);
+}
+
+.textTweet{
+  color: rgb(0, 0, 0);
+  font-size: 1.6em;
+  margin: 0px 30px;
+}
+
+.timeTweet{
+  color: rgb(101, 116, 127);
+  float: left;
+  font-size: 1.5em;
+  margin: 10px 30px 20px 30px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.timeTweet:hover,.userName:hover{
+  color: rgb(85, 172, 238);
+}
+
+.tweet{
+  background: rgb(255, 255, 255);
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 8px;
+  height: 270px;
+  width: 800px;
+}
+
+.tweetHeader{
+  float: left;
+  margin: 30px 0 20px 30px;
+  width: 100%;
+}
+
+.tweetHeader a{
+  float: left;
+  text-decoration: none;
+}
+
+.userAccount{
+  color: rgb(104, 109, 129);
+  display: block;
+  font-size: 1.3em;
+  padding-top: 5px;
+}
+
+.userName{
+  color: rgb(0, 0, 0);
+  float: left;
+  font-size: 1.6em;
+  font-weight: bold;
+  margin: 0 0.3em;
+}
+
+.validatedIcon{
+  width: 28px;
+}
