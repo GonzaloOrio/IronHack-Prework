@@ -9,7 +9,11 @@ li{
 
 li a{
   color: rgb(101, 116, 127);
+<<<<<<< HEAD
   font-size: 1.3em;
+=======
+  font-size: 1.5em;
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   text-decoration: none;
 }
 
@@ -20,19 +24,31 @@ li a{
   width: 14px;
 }
 
+<<<<<<< HEAD
 .favorite-tweet{
+=======
+.favoriteTweet{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   display: block;
   float: left;
   margin: 0 5px 0 35px;
 }
 
+<<<<<<< HEAD
 .favorite-tweet a:hover{
+=======
+.favoriteTweet a:hover{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   color: rgb(232, 28, 79);
 }
 
 .follow{
   float: right;
+<<<<<<< HEAD
   font-size: 1.4em;
+=======
+  font-size: 1.6em;
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   font-weight: bold;
 }
 
@@ -49,27 +65,44 @@ li a{
   color: rgb(255, 255, 255);
 }
 
+<<<<<<< HEAD
 .photo-user{
+=======
+.photoUser{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   float: left;
   margin-right: 15px;
   width: 65px;
 }
 
+<<<<<<< HEAD
 .reply-tweet{
+=======
+.replyTweet{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   display: block;
   margin-top: 2px;
 }
 
+<<<<<<< HEAD
 .reply-tweet a:hover{
   color: rgb(29, 161, 242);
 }
 
 .retweet-tweet{
+=======
+.replyTweet a:hover{
+  color: rgb(29, 161, 242);
+}
+
+.retweetTweet{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   display: block;
   float: left;
   margin: 0 5px 0 35px;
 }
 
+<<<<<<< HEAD
 .retweet-tweet a:hover{
   color: rgb(25, 207, 134);
 }
@@ -84,12 +117,32 @@ li a{
   color: rgb(101, 116, 127);
   float: left;
   font-size: 1.3em;
+=======
+.retweetTweet a:hover{
+  color: rgb(25, 207, 134);
+}
+
+.textTweet{
+  color: rgb(0, 0, 0);
+  font-size: 1.6em;
+  margin: 0px 30px;
+}
+
+.timeTweet{
+  color: rgb(101, 116, 127);
+  float: left;
+  font-size: 1.5em;
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   margin: 10px 30px 20px 30px;
   text-decoration: none;
   width: 100%;
 }
 
+<<<<<<< HEAD
 .time-tweet:hover,.user-name:hover{
+=======
+.timeTweet:hover,.userName:hover{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   color: rgb(85, 172, 238);
 }
 
@@ -101,17 +154,26 @@ li a{
   width: 800px;
 }
 
+<<<<<<< HEAD
 .tweet-header{
+=======
+.tweetHeader{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   float: left;
   margin: 30px 0 20px 30px;
   width: 100%;
 }
 
+<<<<<<< HEAD
 .tweet-header a{
+=======
+.tweetHeader a{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   float: left;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 .user-account{
   color: rgb(104, 109, 129);
   display: block;
@@ -123,10 +185,27 @@ li a{
   color: rgb(0, 0, 0);
   float: left;
   font-size: 1.4em;
+=======
+.userAccount{
+  color: rgb(104, 109, 129);
+  display: block;
+  font-size: 1.3em;
+  padding-top: 5px;
+}
+
+.userName{
+  color: rgb(0, 0, 0);
+  float: left;
+  font-size: 1.6em;
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   font-weight: bold;
   margin: 0 0.3em;
 }
 
+<<<<<<< HEAD
 .validated-icon{
+=======
+.validatedIcon{
+>>>>>>> a18a2c5b95a5e68bfe679320cef03578fc7f2f14
   width: 28px;
 }
