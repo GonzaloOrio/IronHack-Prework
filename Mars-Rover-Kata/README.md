@@ -18,11 +18,11 @@ git init
 git add .
 git commit -m"Just setting up my Github"
 ```
-Create a new repo on your Github account, and copy-paste the HTTPS URL (i.e. https://github.com//ih-prework-html-css.git)
+- [Create a new repo](https://github.com/new) on your Github account, and copy-paste the HTTPS URL (i.e. https://github.com//ih-prework-html-css.git)
 
+![](https://s3-eu-west-1.amazonaws.com/ih-webdev-prework/github-origin-master.png)
 
-
-Once you are done, run the following commands:
+- Once you are done, run the following commands:
 
 git add remote origin https://github.com/<your-user-name>/ih-prework-html-css.git
 git push origin master
