@@ -31,7 +31,8 @@ git push origin master
 ```
 Make sure your files have been uploaded into your Github repo before you start.
 
-- Open the index.html file and then open your console. You should be able to see the results of any console.log() functions here.
+- Open the index.html file and then open your console. 
+- You should be able to see the results of any console.log() functions here.
 ![](http://i.imgur.com/NXOWxK0.jpg)
 
 - Make sure you use data structures (basic data types, arrays & objects)
