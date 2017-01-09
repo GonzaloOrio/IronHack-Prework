@@ -8,7 +8,7 @@ We are sending a rover to Mars and we need to program its movements so that we c
 
 ### Requirements
 
-Download these Mars Rover files to ~/prework/code/labs.
+- [Download these Mars Rover files](https://s3-eu-west-1.amazonaws.com/ih-platform/documents/mars_rover.zip) to `~/prework/code/labs`.
 Open your terminal and run the following commands:
 
 cd ~/prework/code/labs
