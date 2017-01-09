@@ -9,14 +9,15 @@ We are sending a rover to Mars and we need to program its movements so that we c
 ### Requirements
 
 - [Download these Mars Rover files](https://s3-eu-west-1.amazonaws.com/ih-platform/documents/mars_rover.zip) to `~/prework/code/labs`.
-Open your terminal and run the following commands:
-
+- Open your terminal and run the following commands:
+```
 cd ~/prework/code/labs
 unzip ih-prework-html-css.zip
 cd ih-prework-html-css
 git init
 git add .
 git commit -m"Just setting up my Github"
+```
 Create a new repo on your Github account, and copy-paste the HTTPS URL (i.e. https://github.com//ih-prework-html-css.git)
 
 
