@@ -132,9 +132,9 @@ function checkPosition(array, position) {
 
 function checkGridDimensions(newRover) {
   if (newRover[0] >= grid.dimensions.length || newRover[1] >= grid.dimensions[0].length) {
-    return true;   // Found it
+    return true;
   }else if (newRover[0] < 0 || newRover[1] < 0) {
-    return false;   // Found it
+    return false;
   }
 }
 
